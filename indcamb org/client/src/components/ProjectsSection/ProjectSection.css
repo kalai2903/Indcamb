@@ -1,0 +1,17 @@
+.projects-section {
+    display: flex;
+    gap: 40px;
+    padding: 40px;
+  }
+  
+  .project, .flagship-program {
+    flex: 1;
+    background-color: #e9ecef;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .project h2, .flagship-program h2 {
+    font-size: 28px;
+  }
+  

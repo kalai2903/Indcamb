@@ -1,0 +1,15 @@
+.about-section {
+    padding: 40px;
+    background-color: #f8f9fa;
+  }
+  
+  .about-content {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .about-content h2 {
+    font-size: 32px;
+  }
+  
