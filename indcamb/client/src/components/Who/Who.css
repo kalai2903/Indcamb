@@ -1,0 +1,253 @@
+.team-container {
+  text-align: center;
+  padding: 50px;
+  background-color: #f9f9f9;
+}
+
+.team-container h2 {
+  font-size: 3rem;
+  color: #2c3e50;
+  margin-bottom: 40px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 280px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.team-member {
+  text-align: left; /* Align content to the left */
+}
+
+.team-member h3 {
+  font-size: 2rem;
+  color: #035772;
+  margin: 0;
+}
+
+.team-member .role {
+  font-size: 1rem;
+  color: #252525;
+  margin: 5px 0;
+}
+
+.team-member .email {
+  color: #0d0d0e;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.social-icons {
+  margin-top: 10px;
+  text-align: left; /* Align social icons to the left */
+}
+
+.social-icons a {
+  margin-right: 10px;
+  color: #000000; /* Set icon color to black */
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: #035772;
+}
+.team-container {
+  text-align: center;
+  padding: 50px;
+  background-color: #f9f9f9;
+}
+
+.team-container h2 {
+  font-size: 3rem;
+  color: #2c3e50;
+  margin-bottom: 40px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 280px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.team-member {
+  text-align: left; /* Align content to the left */
+}
+
+.team-member h3 {
+  font-size: 2rem;
+  color: #035772;
+  margin: 0;
+}
+
+.team-member .role {
+  font-size: 1rem;
+  color: #252525;
+  margin: 5px 0;
+}
+
+.team-member .email {
+  color: #0d0d0e;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.social-icons {
+  margin-top: 10px;
+  text-align: left; /* Align social icons to the left */
+}
+
+.social-icons a {
+  margin-right: 10px;
+  color: #000000; /* Set icon color to black */
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: #035772;
+}
+.team-container {
+  text-align: center;
+  padding: 50px;
+  background-color: #f9f9f9;
+}
+
+.team-container h2 {
+  font-size: 3rem;
+  color: #2c3e50;
+  margin-bottom: 40px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 280px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.team-member {
+  text-align: left; /* Align content to the left */
+}
+
+.team-member h3 {
+  font-size: 2rem;
+  color: #035772;
+  margin: 0;
+}
+
+.team-member .role {
+  font-size: 1rem;
+  color: #252525;
+  margin: 5px 0;
+}
+
+.team-member .email {
+  color: #0d0d0e;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.social-icons {
+  margin-top: 10px;
+  text-align: left; /* Align social icons to the left */
+}
+
+.social-icons a {
+  margin-right: 10px;
+  color: #000000; /* Set icon color to black */
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.social-icons a:hover {
+  color: #035772;
+}
+.team-container {
+  text-align: center;
+  padding: 50px;
+  background-color: #f9f9f9;
+}
+
+.team-container h2 {
+  font-size: 3rem;
+  color: #2c3e50;
+  margin-bottom: 40px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 280px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.team-member {
+  text-align: left; /* Align content to the left */
+}
+
+.team-member h3 {
+  font-size: 2rem;
+  color: #035772;
+  margin: 0;
+}
+
+.team-member .role {
+  font-size: 1rem;
+  color: #252525;
+  margin: 5px 0;
+}
+
+.team-member .email {
+  color: #0d0d0e;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.social-icons {
+  margin-top: 10px;
+  text-align: left; /* Align social icons to the left */
+}
+
+.social-icons a {
+  margin-right: 15px;
+  color: #000000; /* Set icon color to black */
+  font-size: 1rem;
+  text-decoration: none;
+  transition: color 0.3s;
+  gap: 80px;
+}
+
+.social-icons a:last-child {
+  margin-right: 0; /* Remove extra margin from the last icon */
+}
+
+.social-icons a:hover {
+  color: #035772;
+}

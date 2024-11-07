@@ -1,0 +1,59 @@
+/* Main container for the section */
+.join-movement-section {
+    background-color: #005a73; /* Dark teal background color */
+    color: #ffffff; /* White text color */
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  /* Title styling */
+  .join-movement-section h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  /* Subtitle styling */
+  .join-movement-section p {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  
+  /* Container for the input and button */
+  .subscription-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  /* Email input styling */
+  .email-input {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #1b1e16; /* Dark background color */
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 250px;
+  }
+  
+  /* Subscribe button styling */
+  .subscribe-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ffffff;
+    color: #333333;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .subscribe-button:hover {
+    background-color: #dddddd;
+  }
+  
