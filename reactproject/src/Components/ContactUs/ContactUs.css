@@ -1,0 +1,105 @@
+.contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0rem;
+  padding: 2rem;
+  margin-left: 200px;
+  background-color: #f8f8f8;
+  font-family: Arial, sans-serif;
+}
+
+.illustration img {
+  max-width: 100%; /* Ensure the image scales proportionally */
+  height:500px; /* Increased height */
+  margin-top: 130px;
+  margin-left: -50px;
+  border: 2px solid black; /* Adds a black outline around the image */
+  gap: 40px;
+  /* margin-right: 100px; */
+}
+
+.form-container {
+  flex: 1;
+  max-width: 400px;
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: -200px;
+  border: 2px solid black;
+  margin-right: 50px;
+}
+
+.form-title {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: #333;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+input,
+textarea {
+  width: 97%;
+  padding: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+textarea {
+  height: 100px;
+  resize: none;
+}
+
+.send-btn {
+  background-color: #8e44ad;
+  color: #fff;
+  border: none;
+  padding: 0.8rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.send-btn:hover {
+  background-color: #6c3483;
+}
+.info-boxes {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 90px;
+  gap: 4rem;
+  margin-left: -100px;
+  
+}
+
+.info-box {
+  flex: 1;
+  padding: 3rem;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border: 2px solid black;
+}
+
+.info-box h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.info-box p {
+  font-size: 1rem;
+  color: #555;
+}
